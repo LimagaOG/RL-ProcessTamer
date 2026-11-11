@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://limagaog.github.io/RL-ProcessTamer/sitemap.xml
